@@ -1,0 +1,6 @@
+draw_set_font(fnt_1)
+draw_set_halign(2)
+var _str = "FPS REAL "+string(fps_real)+" | FPS "+string(fps)
+draw_text(display_get_gui_width()-4, 4, _str)
+draw_set_halign(0)
+draw_set_font(-1)

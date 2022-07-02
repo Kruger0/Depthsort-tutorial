@@ -1,0 +1,19 @@
+
+introducao
+
+1- problema da profundidade
+2- depth e layers
+3- solucao
+
+
+sistema de profundidade
+
+1- metodo "rápido" - vantagens e desvantagens
+2- metodo com tags - o que sao tags
+3- configurando o objeto profundidade
+4- tornando os outros objetos invisíveis
+5- criando as estruturas de dados
+6- contando as instancias ativas
+7- salvando as instancias na grid e ordenando pelo y
+8- desenhando as instancias ordenadas
+9- outro
