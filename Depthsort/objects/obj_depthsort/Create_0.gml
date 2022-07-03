@@ -19,9 +19,7 @@ depthsort = function() {
 	var _len = array_length(depth_array)
 	var _inst_count = 0
 	for (var i = 0; i < _len; i++) {
-		for (var j = 0; j < instance_number(depth_array[i]); j++) {
-			_inst_count++;
-		}	
+		_inst_count += instance_number(depth_array[i]);
 	}
 	ds_grid_resize(depth_grid, 2, _inst_count)
 	
@@ -45,6 +43,51 @@ depthsort = function() {
 		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
