@@ -13,7 +13,7 @@ sistema de profundidade
 3- configurando o objeto profundidade
 4- tornando os outros objetos invisíveis
 5- criando as estruturas de dados
-6- contando as instancias ativas
-7- salvando as instancias na grid e ordenando pelo y
+6- contando as instancias ativas - instance_number
+7- salvando as instancias na grid e ordenando pelo y - instance_find
 8- desenhando as instancias ordenadas
 9- outro

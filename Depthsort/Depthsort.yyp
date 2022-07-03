@@ -1,12 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"obj_depthsort","path":"objects/obj_depthsort/obj_depthsort.yy",},"order":3,},
     {"id":{"name":"spr_shadow","path":"sprites/spr_shadow/spr_shadow.yy",},"order":3,},
-    {"id":{"name":"obj_depthsort","path":"objects/obj_depthsort/obj_depthsort.yy",},"order":2,},
     {"id":{"name":"fnt_1","path":"fonts/fnt_1/fnt_1.yy",},"order":0,},
     {"id":{"name":"scr_draw_shadow","path":"scripts/scr_draw_shadow/scr_draw_shadow.yy",},"order":0,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},"order":2,},
+    {"id":{"name":"obj_fps","path":"objects/obj_fps/obj_fps.yy",},"order":2,},
     {"id":{"name":"roteiro","path":"notes/roteiro/roteiro.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":1,},
